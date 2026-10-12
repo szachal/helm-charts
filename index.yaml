@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2026-10-12T12:26:26.125901132+02:00"
+    description: A helm chart for moj nginx.
+    digest: 6271b6943186e2e27bcc307dffc46025b8a914c1cc61847c169a181a72da2ef6
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-12T12:26:26.125339065+02:00"
